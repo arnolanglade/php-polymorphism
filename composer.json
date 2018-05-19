@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "description": "",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Al\\Polymorphism\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpspec/phpspec": "^4.3",
+    "memio/spec-gen": "^0.8.4"
+  }
+}

@@ -1,0 +1,7 @@
+suites:
+#    extensions:
+#        Memio\SpecGen\MemioSpecGenExtension: ~
+
+    Polymorphism:
+        namespace: Al\Polymorphism
+        psr4_prefix: Al\Polymorphism
